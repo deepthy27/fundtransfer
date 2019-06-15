@@ -1,0 +1,16 @@
+{  
+   "login":[  
+      {  
+         "customerid":"12",
+         "password":"abc@12"
+      },
+      {  
+          "customerid":"24",
+         "password":"deep@13"
+      },
+      {  
+          "customerid":"32",
+         "password":"India@15"
+      }
+   ]
+}

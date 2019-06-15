@@ -1,0 +1,20 @@
+{
+    "details":[{
+           "ProductNumber":"6362346177",
+           "balance":"29293",
+           "creationDate":"73625",
+            "history":[{
+               "date":"23423",
+               "comment":"transfer by zomato",
+               "amount":"245"
+             },
+            { "date":"46783",
+               "comment":"transfer by filpkarts",
+               "amount":"2983"
+             },
+             { "date":"78347",
+               "comment":"transfer by amazon",
+               "amount":"6374"
+             }]}
+]
+  }          

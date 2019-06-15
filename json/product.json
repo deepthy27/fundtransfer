@@ -1,0 +1,15 @@
+{  
+   "products":[  
+      {  "customerid":12,
+         "acctype":"savings",
+         "balance":"5000",
+         "accno":"6763828212"
+      },
+{         "customerid":24,
+	"acctype":"current",
+         "balance":"10000",
+         "accno":"5643587783"
+}
+
+   ]
+}

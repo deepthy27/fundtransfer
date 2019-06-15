@@ -1,0 +1,20 @@
+.bor{
+    margin-top:60px;
+    border-style: solid;
+    border-width: 10px;
+    border-color:#ff6200 !important;
+    padding: 50px;
+    
+}
+.bt3{
+    float: right;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#ff6200 !important;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: black;
+    margin-right:1150px;
+    margin-top: 40px;
+
+}
